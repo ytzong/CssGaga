@@ -1,7 +1,7 @@
-291
+292
 
 1. 增加 PSD TO PNG 功能
-2. 优化皮肤 1toN 中的 AutoSrite 生成速度
+2. 提高皮肤 1toN 中的 AutoSrite 生成速度
 
 290
 自动更新服务器迁移至 github
