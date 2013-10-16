@@ -1,4 +1,4 @@
-292
+293
 
 1. 增加 PSD TO PNG 功能
 2. 提高皮肤 1toN 中的 AutoSrite 生成速度
