@@ -1,12 +1,6 @@
-295
+327
 
-1. PNG 压缩算法改进
-2. 修复 AutoSprite 中 .ie6.png 色块缺失 bug
-3. 修复服务器在某些情况下启动时报错的 bug
+迁移至 GitHub
 
-294
-增加图片合成器
-
-293
-1. 增加 PSD TO PNG 功能
-2. 提高皮肤 1toN 中的 AutoSrite 生成速度
+326
+修复 unicode-range 压缩时所带来的加号空格问题（感谢 wenjuli 反馈）
