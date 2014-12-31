@@ -1,6 +1,6 @@
+328
+
+JPG 压缩算法改进！
+
 327
-
 迁移至 GitHub
-
-326
-修复 unicode-range 压缩时所带来的加号空格问题（感谢 wenjuli 反馈）
